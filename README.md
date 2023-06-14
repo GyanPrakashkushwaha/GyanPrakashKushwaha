@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanprakashkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="gyanprakashkushwaha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gyanprakashkushwaha" alt="gyanprakashkushwaha" /></a> </p>
-
 - 🔭 I’m currently working on [Natural Language Processing](https://github.com/GyanPrakashkushwaha/DataScience/tree/main/Deep-Learning/NLP/Text_Preprocessing/Practice)
 
 - 🌱 I’m currently learning **NLP and Computer Vision , from Pwskills course and CampusX youtube channel**
