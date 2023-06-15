@@ -3,16 +3,6 @@
 
 <img align="right" alt ="Data Science" width = "400" src= "https://miro.medium.com/v2/resize:fit:1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
 
-<h2><strong>Projects Dem😊:</strong></h2>
-
-<p>https://gyanprakashkushwaha-laptopprediction.streamlit.app/</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<p>&nbsp;</p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanprakashkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="gyanprakashkushwaha" /> </p>
 
@@ -31,6 +21,11 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1UFlg1SVDlj1yV1-xUrq_JswBrCVrOJqkJsBNiumBHI0/edit?usp=drive_link](https://docs.google.com/document/d/1UFlg1SVDlj1yV1-xUrq_JswBrCVrOJqkJsBNiumBHI0/edit?usp=drive_link)
 
 - ⚡ Fun fact **I am funny that I love Iron Man and want to make in future**
+
+<h3 align="left">Projects Dem😊:</h3>
+<p align="left">
+- 💻 Laptop Price Prediction - https://gyanprakashkushwaha-laptopprediction.streamlit.app/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
