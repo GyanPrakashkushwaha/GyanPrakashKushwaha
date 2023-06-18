@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [Laptop Price Prediction Project](https://github.com/GyanPrakashkushwaha/LaptopPricePrediction_Project)
 
-- 💬 Ask me about **NLP , Computer Vision , CNN , Neural Networks and Machine learning**
+- 💬 Ask me about **NLP , CNN , Neural Networks ,Machine learning ML and DL Projects**
 
 - 📫 How to reach me **gyanprakashkushwaha95@gmail.com**
 
