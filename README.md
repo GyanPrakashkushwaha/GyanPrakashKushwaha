@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Natural Language Processing](https://github.com/GyanPrakashkushwaha/DataScience/tree/main/Deep-Learning/NLP/Text_Preprocessing/Practice)
 
-- 🌱 I’m currently learning **NLP and Computer Vision , from Pwskills course and CampusX youtube channel**
+- 🌱 I’m currently learning **NLP And trying to make very good Projects**
 
 - 👯 I’m looking to collaborate on [Keras Framworks](https://github.com/keras-team)
 
