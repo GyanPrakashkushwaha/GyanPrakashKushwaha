@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1UFlg1SVDlj1yV1-xUrq_JswBrCVrOJqkJsBNiumBHI0/edit?usp=drive_link](https://docs.google.com/document/d/1UFlg1SVDlj1yV1-xUrq_JswBrCVrOJqkJsBNiumBHI0/edit?usp=drive_link)
 
-- 🔭 My Artical - [Functional API]([https://github.com/GyanPrakashkushwaha/DataScience/tree/main/Deep-Learning/NLP/Text_Preprocessing/Practice](https://medium.com/@gyanp7880/the-power-of-functional-api-deep-learning-predicting-two-output-age-and-gender-simultaneously-371f1c5b181e))
+- 🔭 My Artical [Functional API](https://medium.com/@gyanp7880/the-power-of-functional-api-deep-learning-predicting-two-output-age-and-gender-simultaneously-371f1c5b181e)
 
 - ⚡ Fun fact **I am funny that I love Iron Man and want to make in future**
 
