@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanprakashkushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="gyanprakashkushwaha" /> </p>
 
-- 🔭 I’m currently working on [Natural Language Processing](https://github.com/GyanPrakashkushwaha/DataScience/tree/main/Deep-Learning/NLP/Text_Preprocessing/Practice)
+- 🔭 I’m currently working on [Computer Vision](https://github.com/GyanPrakashkushwaha/DataScience/tree/main/Deep-Learning/NLP/Text_Preprocessing/Practice)
 
 - 🌱 I’m currently learning **NLP And trying to make very good Projects**
 
