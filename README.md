@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **NLP , CNN , Neural Networks ,Machine learning ML and DL Projects**
 
-- 📫 How to reach me **gyanprakashkushwaha95@gmail.com**
+- 📫 How to reach me **gyanp7880@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1UFlg1SVDlj1yV1-xUrq_JswBrCVrOJqkJsBNiumBHI0/edit?usp=drive_link](https://docs.google.com/document/d/1UFlg1SVDlj1yV1-xUrq_JswBrCVrOJqkJsBNiumBHI0/edit?usp=drive_link)
 
