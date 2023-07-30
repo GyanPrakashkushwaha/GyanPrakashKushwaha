@@ -18,7 +18,8 @@
 
 - 📫 How to reach me **gyanp7880@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1UFlg1SVDlj1yV1-xUrq_JswBrCVrOJqkJsBNiumBHI0/edit?usp=drive_link](https://docs.google.com/document/d/1UFlg1SVDlj1yV1-xUrq_JswBrCVrOJqkJsBNiumBHI0/edit?usp=drive_link)
+- 📄 Know about my experiences [my Resume](https://docs.google.com/document/d/1OKd9YN03Q4fJKJzSIAfj6k7FoiScH5_fvAIDlLQJxAE/view?usp=sharing)
+
 
 - 🔭 My Artical [Functional API](https://medium.com/@gyanp7880/the-power-of-functional-api-deep-learning-predicting-two-output-age-and-gender-simultaneously-371f1c5b181e)
 
