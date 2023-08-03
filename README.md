@@ -28,6 +28,8 @@
 <h3 align="left">Projects Dem😊:</h3>
 <p align="left">
 - 💻 Laptop Price Prediction - https://gyanprakashkushwaha-laptopprediction.streamlit.app/
+- 📲 Movie recommendation system- https://mobile-recommender-system-gyanprakashkushwaha.streamlit.app/
+
 
 
 <h3 align="left">Connect with me:</h3>
