@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello👋🏻,good+to+see+you+🙃;I'm+Gyan+Prakash+Kushwaha😊;Let's+get+better+together+✊" alt="Typing SVG" width="800" height="200">
 </a>
 
-##  ![200](https://github.com/GyanPrakashkushwaha/GyanPrakashKushwaha/assets/127115588/28bf54b7-dba7-4a52-b04f-75191a7f4371 " width="50"> A little bit about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...
 
 <p>In 📊 this 📈 data-driven 📚 realm, where 💧 terabytes 🚰 flow,<br>
 <p>A 🎁 purpose 🌱 emerges, a 💭 dream 🌌 starts 🔛 to 🌱 grow.🌿 <br>
