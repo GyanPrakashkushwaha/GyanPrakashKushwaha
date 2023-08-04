@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gyan Prakash Kushwaha</h1>
-<h3 align="center">Data Science enthusiast , Actively looking for Data Science jobs and internship opportunities</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+good+to+see+you+🙃;Let's+get+better+together+✊)](https://git.io/typing-svg)
+
 
 <img align="right" alt ="Data Science" width = "400" src= "https://miro.medium.com/v2/resize:fit:1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
 
