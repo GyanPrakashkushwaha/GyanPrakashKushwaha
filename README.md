@@ -28,6 +28,8 @@ I believe in continuous learning, and right now, I'm focused on mastering:
 
 Feel free to reach out to me on social media or via email:
 
+![GyanPrakashkushwaha Kaggle](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?GyanPrakashkushwaha)
+
 - [GitHub](https://github.com/yourusername)
 - [Twitter](https://twitter.com/yourusername)
 - [Email](mailto:youremail@example.com)
