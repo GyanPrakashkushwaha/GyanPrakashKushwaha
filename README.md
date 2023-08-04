@@ -1,4 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+good+to+see+you+🙃;Let's+get+better+together+✊)](https://git.io/typing-svg)
 
 
-![AyushSInghal9020 github-trophies](https://stats.hyochan.dev/api/github-trophies?login=GyanPrakashkushwaha)
+![GyanPrakashkushwaha github-trophies](https://stats.hyochan.dev/api/github-trophies?login=GyanPrakashkushwaha)
