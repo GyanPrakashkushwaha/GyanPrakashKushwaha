@@ -34,7 +34,7 @@ Feel free to reach out to me on social media or via email:
 
 ## 🚀 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GyanPrakashkushwaha&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 <!-- Add GIFs, images, or more content here -->
 
