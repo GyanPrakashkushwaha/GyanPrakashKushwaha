@@ -7,24 +7,6 @@ I'm a passionate developer and a GitHub enthusiast. Welcome to my GitHub profile
 
 Feel free to explore my repositories to see what I've been working on. If you find something interesting, don't forget to ⭐️ it!
 
-## 🛠️ Technologies & Tools
-
-Here are some of the technologies and tools I frequently work with:
-
-- Language 1
-- Language 2
-- Framework 1
-- Framework 2
-<!-- Add more as per your expertise -->
-
-## 🌱 Currently Learning
-
-I believe in continuous learning, and right now, I'm focused on mastering:
-
-- Technology 1
-- Technology 2
-<!-- Add more as per your current learning interests -->
-
 ## 📫 Let's Connect
 
 Feel free to reach out to me :
@@ -33,9 +15,8 @@ Feel free to reach out to me :
 <br>
 <a href="https://www.linkedin.com/in/GyanPrakashkushwaha">
 <img src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" alt="Linkdin" width = 75></a>
-![auto-delete-old-messages-in-gmail-img](https://github.com/GyanPrakashkushwaha/GyanPrakashKushwaha/assets/127115588/aedf65a1-0864-4dc2-9803-9c318d3fa096)
 
-#### Gmail📩gyan02996@gmail.com
+##### Gmail📩 : gyan02996@gmail.com
 
 ## Languages
 <img src="https://www.quintagroup.com/blog/blog-images/machine-learning-libraries/tensorflow.png/@@images/image.png" alt="TensorFlow" width="140" height="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="Pytoch" width="130" height="35"/><img src="https://keras.io/img/logo.png" alt="Keras" width="100" height="37"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="Scikit Learn" width="100" height="60"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/2560px-NumPy_logo_2020.svg.png" alt="Numpy" width="100" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" width="100" height="40"/><img src="https://matplotlib.org/3.1.1/_static/logo2_compressed.svg" alt="Matplotlib" width="110" height="40"/><img src="https://seaborn.pydata.org/_images/logo-wide-lightbg.svg" alt="Seaborn" width="110" height="40"/><img src="https://albumentations.ai/docs/images/logo.png" alt="Albumnetations" width="40" height="40"/>
