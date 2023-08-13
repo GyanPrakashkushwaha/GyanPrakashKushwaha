@@ -20,6 +20,10 @@ Feel free to reach out to me :
 
 ---
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Let's Explore my Projects..
+
+# 👀Two-Face-Similarity
+https://github.com/GyanPrakashkushwaha/twoFace-match-Deepface/assets/127115588/5feda6c6-a48f-4de2-bcb6-5e53a8033400
+
 # 😄Face-Match(Which Celebrity is Your Sibling🤔💭)
 https://github.com/GyanPrakashkushwaha/GyanPrakashKushwaha/assets/127115588/a1713536-ac13-45cc-bb8b-100bae0ef4d2
 
