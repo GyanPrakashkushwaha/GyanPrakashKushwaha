@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello👋🏻,good+to+see+you+🙃;I'm+Gyan+Prakash+Kushwaha😊;Let's+get+better+together+✊" alt="Typing SVG" width="600" height="100">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello👋🏻,good+to+see+you+🙃;I'm+Gyan+Prakash+Kushwaha😊;Let's+get+better+together+✊" alt="Typing SVG" width="500" height="100">
 </a>
 
 Feel free to explore my repositories to see what I've been working on. If you find something interesting, don't forget to ⭐️ it!
