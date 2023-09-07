@@ -25,9 +25,9 @@ Feel free to reach out to me :
 
 ## My Git Stats
   <p align=center >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GyanPrakashKushwaha&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" alt="Gyan Prakash Kushwaha" height=150>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GyanPrakashKushwaha&theme=transparent&hide_border=true" alt="GyanPrakashKushwaha" height=150>
-    <img src="https://github-readme-stats.vercel.app/api?username=GyanPrakashKushwaha&rank_icon=percentile&theme=transparent&hide_border=true&include_all_commits=true" alt="GyanPrakashKushwaha" height=150>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GyanPrakashKushwaha&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" alt="Gyan Prakash Kushwaha" height=120>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GyanPrakashKushwaha&theme=transparent&hide_border=true" alt="GyanPrakashKushwaha" height=120>
+    <img src="https://github-readme-stats.vercel.app/api?username=GyanPrakashKushwaha&rank_icon=percentile&theme=transparent&hide_border=true&include_all_commits=true" alt="GyanPrakashKushwaha" height=120>
   </p>
 
 
