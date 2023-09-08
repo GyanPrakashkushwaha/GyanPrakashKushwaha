@@ -32,7 +32,7 @@ Feel free to reach out to me :
 
 
 ---
-# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Let's Explore my Projects..
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Porfolio..
 
 # 👀Two-Face-Similarity
 https://github.com/GyanPrakashkushwaha/twoFace-match-Deepface/assets/127115588/5feda6c6-a48f-4de2-bcb6-5e53a8033400
