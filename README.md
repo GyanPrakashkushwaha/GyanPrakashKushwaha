@@ -33,6 +33,10 @@ Feel free to reach out to me :
 
 ---
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My Porfolio..
+# Customer Churn Prediction 
+https://github.com/GyanPrakashkushwaha/Customer-Churn-Prediction/assets/127115588/7c724e7c-72ce-442d-b63f-8872ba54e2f2
+# Sentiment-Analysis
+https://github.com/GyanPrakashkushwaha/Sentiment-Analysis/assets/127115588/249dd5b6-69d8-4b83-9fd2-2858ce8c648c
 
 # 👀Two-Face-Similarity
 https://github.com/GyanPrakashkushwaha/twoFace-match-Deepface/assets/127115588/5feda6c6-a48f-4de2-bcb6-5e53a8033400
