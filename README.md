@@ -1,3 +1,4 @@
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello👋🏻,good+to+see+you+🙃;I'm+Gyan+Prakash+Kushwaha😊;Let's+get+better+together+✊" alt="Typing SVG" width="500" height="100">
 </a>
@@ -10,8 +11,9 @@ Feel free to reach out to me :
 
 ![GyanPrakashkushwaha Kaggle](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?GyanPrakashkushwaha)
 <br>
-<a href="https://www.linkedin.com/in/GyanPrakashkushwaha">
-<img src="https://static.vecteezy.com/system/resources/previews/017/339/624/original/linkedin-icon-free-png.png" alt="Linkdin" width = 75></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gyan%20Prakash%20Kushwaha-blue?style=flat&logo=linkedin)](https://in.linkedin.com/in/gyanprakashkushwaha)
+
+
 
 ## Gmail📩 : gyan02996@gmail.com
 ---
