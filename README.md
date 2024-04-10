@@ -9,7 +9,7 @@ Feel free to explore my repositories to see what I've been working on. If you fi
 
 Feel free to reach out to me :
 
-![GyanPrakashkushwaha Kaggle](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?GyanPrakashkushwaha)
+![gyanprakashkushwaha Kaggle](https://kaggle-card.chienhsiang-hung.eu.org/api/svg?gyanprakashkushwaha)
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gyan%20Prakash%20Kushwaha-blue?style=flat&logo=linkedin)](https://in.linkedin.com/in/gyanprakashkushwaha)
 
