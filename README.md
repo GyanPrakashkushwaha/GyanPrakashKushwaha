@@ -1,20 +1,19 @@
 # 👋 Hi, I'm Gyan Prakash Kushwaha
 
-**AI Engineering Undergraduate @ IIT Madras**  
-Building **high-performance AI systems**, not toy notebooks.
+**AI Engineering Undergraduate @ IIT Madras | Kaggle Expert (Top 4%)**
+
+I am a final-year student specializing in building **Agentic RAG workflows** and scalable **End-to-End ML systems**. I bridge the gap between complex Generative AI reasoning and high-performance backend infrastructure.
 
 ---
 
 ## 🧠 About Me
 
-I'm an **AI & Backend-focused engineer** who enjoys turning complex ideas into **fast, scalable, production-grade systems**.
+I have a strong foundation in Data Structures & Algorithms and a passion for reducing inference latency in AI applications.
 
-- 🚀 Built **multi-agent RAG systems** using LangGraph & Gemini
-- ⚙️ Obsessed with **latency, architecture, and system design**
-- 🧩 Strong **DSA fundamentals** (200+ LeetCode problems)
-- 🎯 Actively seeking **SDE / AI Engineering internships**
-
-If it doesn’t scale or can’t ship — I’m not interested.
+- 🔭 I’m currently building **Multi-Agent Systems** using **LangGraph** and **FastAPI**.
+- 👯 I’m looking to collaborate on **Generative AI** and **Backend Optimization** projects.
+- 💬 Ask me about: **LLMs, Vector Databases, RAG Pipelines, and System Design**.
+- 🏆 Achievements: **Kaggle Expert (Ranked 341 Global)** and **200+ LeetCode Problems Solved**.
 
 ---
 
@@ -99,9 +98,9 @@ If it doesn’t scale or can’t ship — I’m not interested.
 
 ## 🌐 Connect With Me
 
-- 🧑‍💻 GitHub: https://github.com/your-username
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📊 Kaggle: https://kaggle.com/your-profile
+- 🧑‍💻 GitHub: https://github.com/GyanPrakashKushwaha
+- 💼 LinkedIn: https://linkedin.com/in/gyanprakashkushwaha
+- 📊 Kaggle: https://kaggle.com/gyanprakashkushwaha
 
 ---
 
