@@ -53,7 +53,7 @@ I have a strong foundation in Data Structures & Algorithms and a passion for red
 **LangGraph · FastAPI · Gemini · Redis · Docker · Vue · Chrome Extension**
 
 - Built a **multi-agent hiring simulator** with 3 personas (85% eval accuracy)
-- Reduced application time **45 min → <2 min**
+- Reduced application time **45 min → <10 min**
 - Cut **TTFT by 90%** using async pipelines & semantic caching
 - Full observability with **LangSmith tracing**
 
